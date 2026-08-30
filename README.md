@@ -1,3 +1,8 @@
+## Commands
+- !c -- Changes your username.
+- !a -- Changes avatar.
+- !a reset -- default avatar
+
 ```luau
 -- only for your screen. Recording/Streaming purposes.
 -- Reminder. People can still say your actual username.
